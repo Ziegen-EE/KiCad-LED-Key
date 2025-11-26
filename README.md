@@ -25,8 +25,6 @@ A full, BOM is available here:
 - Schematic  
 - PCB layout  
 - Gerber files
-- Custom Symbols
-- Imported Footprints
 
 ## How It Works
 The LED is powered through a single current-limiting resistor, and the momentary switch provides the primary input. External power, ground, and signal lines connect through the labeled pads.
