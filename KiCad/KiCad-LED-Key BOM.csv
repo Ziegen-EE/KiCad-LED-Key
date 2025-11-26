@@ -1,6 +1,0 @@
-,Reference Designator,DNP,Part Name,Manufacturer,MPN,Qty,Footprint,Link,Notes,Price,Total Price
-1,SW1A,No,Tactile Button,Omron Electronics Inc-EMC Div,B3F-1000,1,THT,Link,,0.24,90.03
-2,BT1,No,Battery Holder,Keystone Electronics,1058,1,SMD,Link, Coin Cell 2032,1.27,
-3,R1,No,Resistor,Vishay Beyschlag/Draloric/BC Components,MBA0204VE1000BC100,1,THT,Link,,1.19,
-4,D1,No,LED,Kingbright,WP56BID,1,THT,Link,Red,1.01,
-5,N/a,N/a,PCB,PCBWay,N/a,5,N/a,N/a,,86.32,
